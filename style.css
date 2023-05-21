@@ -1,0 +1,36 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://motgame.vn/wp-content/uploads/2022/06/anh-anime-thanh-guom-diet-quy-ngau-11.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://anhdephd.vn/wp-content/uploads/2022/06/hinh-anh-thanh-guom-diet-quy-800x451.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://thuthuatnhanh.com/wp-content/uploads/2019/12/anh-anime-dep-de-thuong-840x473.jpg);
+}
